@@ -12,6 +12,7 @@
 		B14B12EB29C08AC80019BFBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14B12EA29C08AC80019BFBF /* Assets.xcassets */; };
 		B14B12EE29C08AC80019BFBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14B12ED29C08AC80019BFBF /* Preview Assets.xcassets */; };
 		B14B12F529C08BE00019BFBF /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14B12F429C08BE00019BFBF /* DownloadImageAsync.swift */; };
+		B15B585C29C184E900617E2A /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B15B585B29C184E900617E2A /* TaskBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B14B12EA29C08AC80019BFBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B14B12ED29C08AC80019BFBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B14B12F429C08BE00019BFBF /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		B15B585B29C184E900617E2A /* TaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		B14B12DA29C08AC80019BFBF = {
 			isa = PBXGroup;
 			children = (
+				B15B585B29C184E900617E2A /* TaskBootCamp.swift */,
 				B14B12F429C08BE00019BFBF /* DownloadImageAsync.swift */,
 				B14B12E529C08AC80019BFBF /* SwiftConcurrencyBootcamp */,
 				B14B12E429C08AC80019BFBF /* Products */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B14B12E929C08AC80019BFBF /* ContentView.swift in Sources */,
+				B15B585C29C184E900617E2A /* TaskBootCamp.swift in Sources */,
 				B14B12F529C08BE00019BFBF /* DownloadImageAsync.swift in Sources */,
 				B14B12E729C08AC80019BFBF /* SwiftConcurrencyBootcampApp.swift in Sources */,
 			);
